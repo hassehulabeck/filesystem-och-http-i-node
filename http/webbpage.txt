@@ -1,0 +1,18 @@
+<html>
+<title>Simple page</title>
+<style>
+  body {
+    width: 66%;
+    margin: 0 auto;
+    background-color: ccc;
+    padding: 1em;
+  }
+  html {
+    background-color: #bbb;
+  }
+</style>
+<body>
+<h1>Välkommen</h1>
+<p>Det här är text på en webbsida.</p>
+</body>
+</html>
